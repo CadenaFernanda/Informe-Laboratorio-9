@@ -1,3 +1,3 @@
-![image](https://user-images.githubusercontent.com/84587120/132117151-baa3973b-d96a-454c-a09f-ab686049a263.png)
+![image](https://user-images.githubusercontent.com/84587120/132117231-37de5574-000b-4266-9eb2-eff93e2e61ad.png)
 
 # Informe-Laboratorio-9
