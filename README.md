@@ -2,7 +2,7 @@
 
 # Informe-Laboratorio-9
 
-#Objetivos: 
+# Objetivos: 
 
 * Objetivo general: 
 
