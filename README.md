@@ -21,3 +21,12 @@
 # Recomendaciones
 
 # Bibliografía
+
+* Blogspot. (s.f.). Análisis de Circuitos Eléctricos. Obtenido de 1.2.- Fasores.: http://circuitoselectricosac.blogspot.com/p/12-fasores.html
+
+* Blogspot. (s.f.). Tutoriales de electrónica básica. Obtenido de Números complejos y fasores en Polar y Forma Rectangular: http://tutorialesdeelectronicabasica.blogspot.com/2016/06/numeros-complejos-y-fasores-en-polar-y.html
+
+* dademuchconnection. (08 de Abril de 2019). Representación Fasorial de corrientes y voltajes – Fasores. Obtenido de https://dademuch.com/2019/04/08/representacion-fasorial-de-corrientes-y-voltajes-fasores/
+
+
+
