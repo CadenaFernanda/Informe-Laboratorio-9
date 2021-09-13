@@ -6,7 +6,17 @@
 
 * Objetivo general: 
 
+•	Estudiar conceptos básicos para la realización de operaciones aritméticas con números complejos, tanto en su forma polar como rectangular. 
+
 * Objetivos específicos: 
+
+•	Identificar números complejos para la trasformación de la forma polar a rectangular y viceversa.
+
+•	Aplicar experimentalmente las leyes de conservación de energía eléctrica atravez de fasores.
+
+•	Usar cálculos algebraicos para la resolución de los ejercicios.
+
+•	Comparar resultados analíticos con resultados experimentales.
 
 # Marco teórico
 
