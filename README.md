@@ -2,6 +2,10 @@
 
 # Informe-Laboratorio-9
 
+![image](https://user-images.githubusercontent.com/84427371/133014068-a3bf0e91-2e83-495a-9b27-c30d16482fff.png)
+
+![image](https://user-images.githubusercontent.com/84427371/133014117-7cdcb527-206c-4b1a-8035-5d1804ad3116.png)
+
 # Objetivos: 
 
 * Objetivo general: 
