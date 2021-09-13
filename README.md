@@ -30,6 +30,10 @@
 
 # Recomendaciones
 
+* Se recomienda usar adecuadamente las formulas para realizar los respectivos calculos algebraicos de numeros complejos.
+
+* Emplear otros programas aparte de la calculadora que nos ayuden a resolver con mas presicion estos ejercicios, y asi poder hacer las respectivas comparaciones.
+
 # Bibliografía
 
 * Blogspot. (s.f.). Análisis de Circuitos Eléctricos. Obtenido de 1.2.- Fasores.: http://circuitoselectricosac.blogspot.com/p/12-fasores.html
