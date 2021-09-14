@@ -74,6 +74,8 @@ Los números complejos permiten realizar operaciones matemáticas con cantidades
 
 # Conclusiones
 
+Tenemos una mayor comprensión del tema en sus conceptos básicos y el uso de operaciones con números complejos tanto en forma polar como rectangular, además gracias a las fórmulas podemos pasar de una coordenada a otra, facilitando mucho la resolución de ejercicios.
+
 # Recomendaciones
 
 * Se recomienda usar adecuadamente las formulas para realizar los respectivos calculos algebraicos de numeros complejos.
