@@ -72,9 +72,15 @@ Los números complejos permiten realizar operaciones matemáticas con cantidades
 
 ![image](https://user-images.githubusercontent.com/84427371/133193147-a841209a-89a7-4575-b09f-1cb2adccdf80.png)
 
+# Link 
+
+https://youtu.be/KxLUu05oaW0
+
 # Conclusiones
 
-Tenemos una mayor comprensión del tema en sus conceptos básicos y el uso de operaciones con números complejos tanto en forma polar como rectangular, además gracias a las fórmulas podemos pasar de una coordenada a otra, facilitando mucho la resolución de ejercicios.
+* Utilizar fasores nos dan un marco de referencia en la frecuencia para hacer más fácil el análisis de circuitos eléctricos en corriente alterna para  fuentes sinusoidales.
+ 
+* Finalemente tenemos una mayor comprensión del tema en sus conceptos básicos y el uso de operaciones con números complejos tanto en forma polar como rectangular, además gracias a las fórmulas podemos pasar de una coordenada a otra, facilitando mucho la resolución de ejercicios.
 
 # Recomendaciones
 
